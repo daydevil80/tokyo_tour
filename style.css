@@ -83,7 +83,7 @@ nav ul li a:hover {
     margin-top: 20px;
     width: 100%;
     max-width: 100%;
-    overflow: hidden; /* Ensure the image fits within the container */
+    overflow: hidden; 
     border-radius: 10px;
 }
 
